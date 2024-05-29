@@ -1,0 +1,1 @@
+# mnist_onnx_export_rknn
